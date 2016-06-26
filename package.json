@@ -4,6 +4,7 @@
   "description": "Una lista de oración",
   "main": "application.js",
   "dependencies": {
+    "localforage": "^1.4.2",
     "nodebin": "^0.1.0"
   },
   "devDependencies": {},
