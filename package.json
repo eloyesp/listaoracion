@@ -1,0 +1,16 @@
+{
+  "name": "listaoracion",
+  "version": "1.0.0",
+  "description": "Una lista de oración",
+  "main": "application.js",
+  "dependencies": {
+    "nodebin": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eloy Espinaco",
+  "license": "GPL-3.0+"
+}
