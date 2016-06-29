@@ -1,4 +1,8 @@
 var store = require('localforage')
+var riot = require('riot')
+
+var lista_oracion = require('./lista-oracion.tag')
+riot.mount(lista_oracion)
 
 var listaOración = document.getElementById("listaOracion"); // hace referencia a la lista, permite encontrarla en el html y le pone nombre
 
